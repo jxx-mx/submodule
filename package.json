@@ -1,5 +1,5 @@
 {
-  "name": "sunmodule",
+  "name": "submodule",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
